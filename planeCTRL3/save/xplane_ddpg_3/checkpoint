@@ -1,0 +1,2 @@
+model_checkpoint_path: "xplane"
+all_model_checkpoint_paths: "xplane"
