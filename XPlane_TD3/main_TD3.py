@@ -14,7 +14,7 @@ import  tensorflow as tf
 import time
 import scipy.io as sio
 
-'''测试git'''
+'''测试git_test'''
 def norm(env, a):
     a_norm=[]
     for i in range(env.action_space.shape[0]):
