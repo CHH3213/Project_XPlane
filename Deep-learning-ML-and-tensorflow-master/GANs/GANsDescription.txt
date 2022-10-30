@@ -1,2 +1,0 @@
-## GANs example
-import tensorflow as tf

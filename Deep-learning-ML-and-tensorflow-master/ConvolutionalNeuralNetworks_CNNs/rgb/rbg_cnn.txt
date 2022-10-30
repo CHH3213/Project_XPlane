@@ -1,1 +1,0 @@
-CNNs for RGB data
